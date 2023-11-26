@@ -6,7 +6,8 @@
 TODO:// The IntroduceStudent app is a user-friendly iOS application designed to facilitate self-introduction by capturing and presenting key information about the user. With an intuitive interface, users can input details such as their first and last names, school name, academic year, and even express their preference for having more pets.
 
 ## App Walk-Through
-![App Walk-Through](Introduce.gif)
+![Introduce ](https://github.com/NawalPandit/codepath--prework/assets/150951774/24eff3df-cf54-4f82-8ab4-97010edffe9a)
+
 
 ## Features
 
