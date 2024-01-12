@@ -18,7 +18,4 @@ TODO:// The IntroduceStudent app is a user-friendly iOS application designed to 
 - [x] Switch makes a statement about wanting more pets or not (true/false)
 - [x] Introduce yourself button shows an alert box with an introduction and dismiss button
 
-### Optional Features
-- [ ] User can tap a button to change the color of the background view
-- [ ] User can select additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [ ] Any stylistic changes that are not default options (Comment this here)
+
